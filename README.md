@@ -1,2 +1,2 @@
 # ccpjh.github.io
-블로그
+https://ccpjh.github.io/
